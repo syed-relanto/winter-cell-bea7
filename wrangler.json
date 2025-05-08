@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "winter-cell-bea7",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "82ed5655-ae5f-453f-bc3d-5734b99cecd2",
+      "database_name": "long-sun-4c7e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
